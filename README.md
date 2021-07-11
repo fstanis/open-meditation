@@ -6,6 +6,10 @@ This repo hosts resources related to meditation and mindfulness that are "open" 
 
 The goal is to make these resources easier to find, distribute and use in other open source projects.
 
+## Index
+
+- ["Meditation Exercises" by Thousand Waves](thousandwaves-meditation-exercises)
+
 ## Contributing
 
 If you'd like to suggest content to add, the easiest way is to open an issue linking to the website where the content is currently hosted.
