@@ -9,6 +9,7 @@ The goal is to make these resources easier to find, distribute and use in other 
 ## Index
 
 - ["Meditation Exercises" by Thousand Waves](thousandwaves-meditation-exercises)
+- ["Guided Meditations" by UCLA MARC](ucla-marc)
 
 ## Contributing
 
